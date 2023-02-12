@@ -26,7 +26,17 @@ firebase deploy
 ```
 
 ## Hosting
-## Cloud Functions --- need to be Blaze plane
+    slash-fi.web.app    `public/index.html`
+
+## Cloud Functions  --- need to be Blaze plane
+( future, now sample HelloWorld + AWS-Lambda sample )
+
+    AWS-Lambda ( https://github.com/slash-fi-public/slash-payments-minimum-merchant-api )
+    CloudFormation - Cloud9
+    CloudWatch : ARN
+        arn:aws:logs:ap-northeast-1:49420017XXXX:log-group:/aws/lambda/SlashPaymentsMinimumMerch-getKickbackHandler6D1652-144G4zNjUn84:*
+
+future functions 
 ## Cloud Firestore
 ## Strage
 ## Authentication
